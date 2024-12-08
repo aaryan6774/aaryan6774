@@ -18,6 +18,8 @@
   <div style="display: flex; flex-direction: column; gap: 10px; margin-left: 20px;">
     <img src="https://images.squarespace-cdn.com/content/v1/55ed989ee4b0c7f115ddc924/1541600620919-VEI2IOYGNT2WJXA2W4A0/analytics.gif" alt="Analytics" width="350" />
     <img src="https://miro.medium.com/v2/resize:fit:1400/1*cXdJh394X6YIzRCvXsaJzg.gif" alt="Data Process" width="350" />
+    <img src="https://bevologyinc.com/blog/wp-content/uploads/2019/01/metrics-giphy.gif" alt="Data Science" width="350" />
+    <img src="https://www.sappiencia.com/images/dashboard-inteligentes-sappiencia.gif" alt="Big Data" width="350" />
   </div>
 </div>
 
