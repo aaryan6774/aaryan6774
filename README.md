@@ -56,3 +56,10 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan6774&show_icons=true&locale=en&layout=compact" alt="aaryan6774" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan6774&" alt="aaryan6774" /></p>
+
+
+
+<div align="center">
+  <!-- Footer Banner -->
+  <img src="https://i.pinimg.com/originals/a4/a5/21/a4a5213d12274e96ae25f2468aad27bc.gif" alt="Footer" width="100%" />
+</div>
