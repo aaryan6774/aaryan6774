@@ -55,7 +55,7 @@
 
 
 
-<h3 align="center">Showcase:</h3>
+<h3 >Showcase:</h3>
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
   <!-- First Row -->
