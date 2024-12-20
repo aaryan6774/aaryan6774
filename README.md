@@ -4,8 +4,45 @@
 </div>
 
 
-<h1 align="center">Hi 👋, I'm Aaryan Vasalya</h1>
-<h3 align="center">I am a dedicated and passionate Data Science student with a solid foundation in machine learning and deep learning.</h3>
+<h1 >Hi 👋, I'm Aaryan Vasalya</h1>
+<h3 >I am a dedicated and passionate Data Science student with a solid foundation in ML & DL.</h3>
+
+
+
+<section id="about-me" style="margin: 50px auto; text-align: center; color: white;">
+    <h2 style="font-size: 2.5rem; color: #e6e6e6;">A Little More About Me...</h2>
+    <pre style="background: #1e1e2f; color: #7bdff2; text-align: left; margin: 30px auto; padding: 20px; max-width: 800px; border-radius: 10px; overflow-x: auto;">
+const aaryan = {
+    pronouns: "He" | "Him",
+    code: ["Python", "R", "SQL", "C++"],
+    askMeAbout: ["data analysis", "machine learning", "deep learning", "data visualization", "cloud computing"],
+    technologies: {
+        dataScience: {
+            tools: ["Pandas", "NumPy", "Scikit-Learn", "TensorFlow", "Keras", "PyTorch"],
+            visualization: ["Matplotlib", "Seaborn", "ggplot2", "Tableau", "Power BI"],
+        },
+        machineLearning: {
+            algorithms: ["Linear Regression", "Logistic Regression", "Decision Trees", "SVM", "KNN", "Clustering"],
+            deepLearning: ["CNNs", "RNNs", "GANs"],
+        },
+        cloudPlatforms: ["AWS", "Azure", "Google Cloud"],
+        bigData: ["Hadoop", "Hive", "Spark"],
+        databases: ["MySQL", "PostgreSQL", "MongoDB", "SQLite"],
+        misc: ["NLP", "Time Series Analysis", "Generative AI"],
+    },
+    architecture: {
+        modeling: ["Statistical Models", "Neural Networks"],
+        workflows: ["ETL Pipelines", "Model Deployment", "Data Engineering"],
+        platforms: ["Cloud Functions", "Docker"],
+    },
+    currentFocus: "Improving anomaly detection in hyperspectral imaging using AI",
+    funFact: "I find solving bugs as thrilling as solving puzzles!"
+};
+    </pre>
+</section>
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
