@@ -53,6 +53,30 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="80" height="80"/> </a>
 </p>
 
+
+
+<h3 align="center">Showcase:</h3>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- First Row -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBezl3I_FEHasjYXwzju0BoJ0pR4fLSzp-Ew&s" alt="Image 1" width="200" height="150" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0OmxjR_0hcn9bTB6TLgA0_926SITp_QNKJw&s" alt="Image 2" width="200" height="150" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR81C28X-KxyxCnSbocxBE-KuO5QwHqWg5fCg&s" alt="Image 3" width="200" height="150" />
+  
+  <!-- Second Row -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTP1kH52v4t3xlljEaOezVMNOJQOC5EDy8qqRS9Cx205moXfZi8aftI6oGDw2Mw50HRnHg&usqp=CAU" alt="Image 4" width="200" height="150" />
+  <img src="https://miro.medium.com/v2/resize:fit:1152/1*d4zkPDg9EmViFVWR1YwBtg.gif" alt="Image 5" width="200" height="150" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQutTnbhUcEumZ39TQCHldEvIpTnRGk35fRJw&s" alt="Image 6" width="200" height="150" />
+  
+  <!-- Third Row -->
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSgBB1wPUWQKh5I30oG7IkfVJ_0BH_Tln4emw&s" alt="Image 7" width="200" height="150" />
+  <img src="https://henschel-robotics.ch/wp-content/uploads/2023/03/ezgif-5-73a26e2e5d.gif" alt="Image 8" width="200" height="150" />
+</div>
+
+
+
+
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaryan6774&show_icons=true&locale=en&layout=compact" alt="aaryan6774" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaryan6774&" alt="aaryan6774" /></p>
